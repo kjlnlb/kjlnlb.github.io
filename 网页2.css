@@ -1,0 +1,12 @@
+header{
+	background-color: #2289F0;
+	display:block;
+	color:#FFFFFF;
+	text-align:center;
+}
+body{
+	background-color:#cccccc;
+	margin:0px auto;
+	max-width:900px;
+	border:solid;
+}
